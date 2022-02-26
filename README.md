@@ -5,3 +5,5 @@ All Feature Transformations
 3. Scaling To Median And Quantiles
 4. Guassian Transformation
 5. Logarithmic Transformation
+6. Reciprocal Trnasformation
+
