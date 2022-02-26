@@ -6,4 +6,4 @@ All Feature Transformations
 4. Guassian Transformation
 5. Logarithmic Transformation
 6. Reciprocal Trnasformation
-
+7. Square Root Transformation
